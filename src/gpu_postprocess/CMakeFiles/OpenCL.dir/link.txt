@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libOpenCL.so -o libOpenCL.so CMakeFiles/OpenCL.dir/__/__/3rdparty/opencl/libopencl-stub/src/libopencl.cc.o 

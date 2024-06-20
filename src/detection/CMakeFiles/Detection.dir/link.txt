@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libDetection.a  CMakeFiles/Detection.dir/postprocess.cpp.o CMakeFiles/Detection.dir/preprocess.cpp.o CMakeFiles/Detection.dir/rkDeeplabV3.cpp.o CMakeFiles/Detection.dir/rkPPseg.cpp.o CMakeFiles/Detection.dir/rkUnet.cpp.o CMakeFiles/Detection.dir/rkYoloP.cpp.o CMakeFiles/Detection.dir/rkYolov5s.cpp.o
+/usr/bin/ranlib ../../lib/libDetection.a

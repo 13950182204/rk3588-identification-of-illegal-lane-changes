@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libgpu_postprocess.a  CMakeFiles/gpu_postprocess.dir/gpu_compose_impl.cc.o CMakeFiles/gpu_postprocess.dir/workflow.cc.o CMakeFiles/gpu_postprocess.dir/opencl_workspace.cc.o CMakeFiles/gpu_postprocess.dir/opencl_memory.cc.o CMakeFiles/gpu_postprocess.dir/opencl_wrapper.cc.o
+/usr/bin/ranlib ../../lib/libgpu_postprocess.a

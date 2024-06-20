@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cat/Documents/gratuate_project/src/capture/capture.cpp
+capture.hpp
+/home/cat/Documents/gratuate_project/src/capture/capture.hpp
+
+/home/cat/Documents/gratuate_project/src/capture/capture.hpp
+termios.h
+-
+unistd.h
+-
+opencv2/opencv.hpp
+-
+thread
+-
+blocking_queue.h
+/home/cat/Documents/gratuate_project/src/capture/blocking_queue.h
+common.hpp
+/home/cat/Documents/gratuate_project/src/capture/common.hpp
+
+src/common/blocking_queue.h
+condition_variable
+-
+deque
+-
+iostream
+-
+mutex
+-
+
+src/common/common.hpp
+
